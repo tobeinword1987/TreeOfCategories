@@ -3,6 +3,8 @@ Testing task
 
 
 * Clone this project to your local directory
+* edit config/db.php file in accordance to your db
+* Use exportDB.sql file to create DB and tables in your db.
 * cd to the web directory of this project
 * Do:
 
@@ -18,15 +20,15 @@ Testing task
 
 in your web directory.
 
-* open page in browser
+* open page in browser http://localhost:8000
 
-At first You should use exportDB.sql file to create DB and tables.
-
-Then you should create some root categories by interface.
+You should create some root categories by interface.
 
 And then you can add products to every category, clicking on it.
 
 Also you can add new sub categories, add products to each of them.
 
 But you can't delete category if it has sub categories. Also you can't delete category, if it has products.
+
+In inlay <About author> you can see my resume and my front end skills
 
