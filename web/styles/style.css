@@ -1,0 +1,42 @@
+.name {
+    color: yellow;
+    font-size: 20px;
+}
+
+.surname {
+    color: grey;
+    font-size: 20px;
+}
+
+.subHeader {
+    color: grey;
+    font-size: 10px;
+}
+
+#head {
+    background-color: gray;
+    color: #f8f2b0;
+    font-size: 25px;
+}
+
+.rightPanel {
+    background-color: #e5e5e5;
+}
+
+.section {
+    color: grey;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.note {
+    color: grey;
+    font-size: .67em;
+    font-weight: bold;
+}
+
+#footer{
+    background-color: gray;
+    color: #f8f2b0;
+    font-size: 25px;
+}

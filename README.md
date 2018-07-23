@@ -6,18 +6,15 @@ Testing task
 * cd to the web directory of this project
 * Do:
 
-`
 
-$ composer install
+    $ composer install
 
-`
+
 * Try:
 
-`
 
-$ php -S localhost:8000
+    $ php -S localhost:8000
 
-`
 
 in your web directory.
 
